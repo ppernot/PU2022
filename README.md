@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/444471697.svg)](https://zenodo.org/badge/latestdoi/444471697)
+
 # PU2022
 
 Codes and data to reproduce the results and figures of paper
